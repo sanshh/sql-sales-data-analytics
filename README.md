@@ -2,6 +2,8 @@
 
 **An end-to-end SQL analytics project focused on exploring sales data, identifying business trends, analyzing customer and product performance, and generating actionable business insights using Microsoft SQL Server.**
 
+![image alt](https://github.com/sanshh/sql-sales-data-analytics/blob/81be37ea28b6bb74451911c5ee9f4369e1a965e3/data%20analytics%20flowchart.png)
+
 ---
 
 ## 📌 Project Overview
